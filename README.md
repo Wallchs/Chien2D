@@ -1,6 +1,6 @@
 .../Chien2D/...
 ===============
-Diretório com alguns exemplos e jogos/simulações físicas desenvolvidos utilizando a Chien2D
+Diretório com alguns exemplos, jogos e simulações físicas desenvolvidos utilizando a Chien2D
 
 Chien2D
 =======
