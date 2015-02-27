@@ -8,12 +8,12 @@ A Chien2D é uma biblioteca multiplataforma (Linux, Windows e Mac OSX) baseada e
 
 Configuração
 ============
-[b]Microsoft Visual Studio (Windows)[/b]
+Microsoft Visual Studio (Windows)
+________________________________
 
 Tutorial: http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-configurando-no-microsoft-visual-studio-windows
 
 Video: http://youtu.be/NbfRCPN7wkY
 
-
-[b]Netbeans (GNU/LINUX)[/b]
+Netbeans (GNU/LINUX
 http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux
