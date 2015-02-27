@@ -28,6 +28,7 @@ Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-
 
 # <a name="about"></a>Sobre
 * "A Chien2D é uma biblioteca multiplataforma (Linux, Windows e Mac OSX) baseada em SDL/OpenGL de desenvolvimento de jogos 2D em C/C++" <admin@listforks.com>
+* 
+
 # <a name="configuration"></a>Configuração
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
