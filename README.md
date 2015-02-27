@@ -13,7 +13,5 @@ Diretório com alguns exemplos, jogos e simulações físicas desenvolvidos util
 
 # <a name="configuration"></a>Configuração
 * Microsoft Visual Studio <http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-configurando-no-microsoft-visual-studio-windows>
-______
 * Microsoft Visual Studio (video) <http://youtu.be/NbfRCPN7wkY>
-______
 * Netbeans (linux) <http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux>
