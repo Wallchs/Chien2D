@@ -1,12 +1,11 @@
 .../Chien2D/...
 ===============
 Diretório com alguns exemplos, jogos e simulações físicas desenvolvidos utilizando a Chien2D
-
+____
 # Chien2D
  
 * [Chien2D](#about)
-* [Configuração](#configuration)
- 
+* [Configuração](#configuration) 
 
 # <a name="about"></a>Sobre
 * "A Chien2D é uma biblioteca multiplataforma (Linux, Windows e Mac OSX) baseada em SDL/OpenGL de desenvolvimento de jogos 2D em C/C++" <admin@listforks.com>
