@@ -15,5 +15,6 @@ Tutorial: http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-
 
 Video: http://youtu.be/NbfRCPN7wkY
 
-Netbeans (GNU/LINUX
-http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux
+Netbeans (GNU/LINUX)
+________________________________
+Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux
