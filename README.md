@@ -22,7 +22,7 @@ Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-
 
 # Configuração
  
-* [Team Members](#team-members)
+* [Configuração](#configuration)
  
-# <a name="team-members"></a>Team Members
+# <a name="configuration"></a>Team Members
 * "J. Jesus. P. Aguinaga" <admin@listforks.com>
