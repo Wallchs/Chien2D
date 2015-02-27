@@ -29,3 +29,4 @@ Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-
 # <a name="configuration"></a>Configuração
 * Microsoft Visual Studio <http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-configurando-no-microsoft-visual-studio-windows>
 * Microsoft Visual Studio (video) <http://youtu.be/NbfRCPN7wkY>
+* Netbeans (linux) <http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux>
