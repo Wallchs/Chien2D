@@ -2,20 +2,6 @@
 ===============
 Diretório com alguns exemplos, jogos e simulações físicas desenvolvidos utilizando a Chien2D
 
-Configuração
-============
-*[Microsoft Visual Studio Windows]
-
-Tutorial: http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-configurando-no-microsoft-visual-studio-windows
-
-Video: http://youtu.be/NbfRCPN7wkY
-
-________________________________
-Netbeans (GNU/LINUX)
-________________________________
-Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux
-
-
 # Chien2D
  
 * [Chien2D](#about)
