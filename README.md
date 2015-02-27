@@ -10,6 +10,7 @@ Configuração
 ============
 Microsoft Visual Studio (Windows)
 http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-configurando-no-microsoft-visual-studio-windows
+http://youtu.be/NbfRCPN7wkY (video)
 
 
 Netbeans (GNU/LINUX)
