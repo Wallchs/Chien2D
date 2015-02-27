@@ -27,4 +27,5 @@ Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-
 
 
 # <a name="configuration"></a>Configuração
-* "Microsoft Visual Studio" <admin@listforks.com>
+* Microsoft Visual Studio (tutorial) <admin@listforks.com>
+* * http://henriquekraemer.com/index.php/art-e-tut/7-chien2d-instalando-e-configurando-no-microsoft-visual-studio-windows
