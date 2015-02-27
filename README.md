@@ -20,7 +20,7 @@ ________________________________
 Tutorial: http://henriquekraemer.com/index.php/art-e-tut/8-chien2d-instalando-e-configurando-no-netbeans-linux
 
 
-# Table of Contents
+# Configuração
  
 * [Team Members](#team-members)
  
